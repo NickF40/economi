@@ -1,5 +1,5 @@
 # Ecónomi
- Economic client/server game, based on PyQt + Twisted
+ Economic client/server game, based on PyQt + Tornado
 ## Gameplay
 - Грабим корованы
  
